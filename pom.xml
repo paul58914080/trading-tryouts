@@ -32,6 +32,7 @@
         <module>rest-adapter</module>
         <module>jpa-adapter</module>
         <module>bootstrap</module>-->
+        <module>trading-camunda-spring-boot-starter</module>
     </modules>
     <dependencyManagement>
         <dependencies>
