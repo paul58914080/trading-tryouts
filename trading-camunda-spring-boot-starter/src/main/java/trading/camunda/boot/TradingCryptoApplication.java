@@ -1,4 +1,4 @@
-package tryouts.trading;
+package trading.camunda.boot;
 
 import org.camunda.bpm.spring.boot.starter.annotation.EnableProcessApplication;
 import org.springframework.boot.SpringApplication;
