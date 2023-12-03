@@ -33,6 +33,7 @@
         <module>jpa-adapter</module>
         <module>bootstrap</module>-->
         <module>trading-camunda-spring-boot-starter</module>
+        <module>external-ticker-service</module>
     </modules>
     <dependencyManagement>
         <dependencies>
